@@ -7,7 +7,7 @@ function myCalculator (num1, num2, num3, num4) {
     } else if (product < 50) {
         return "¡El número es menor que 50!";
     } else {
-        return "Solo puede ser 50"
+        return "Solo puede ser 50";
     }
 };
 console.log(myCalculator(4,13,22,3));
